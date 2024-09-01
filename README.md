@@ -1,4 +1,4 @@
-Merge files from stdin into subnets
+Merge ip addresses from stdin into subnets
 
 Example: 
 
